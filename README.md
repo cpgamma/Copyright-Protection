@@ -15,7 +15,7 @@ pip install sentence-transformers
 
 ## Dataset
 Our evaluation uses a comprehensive news article dataset:
-- **15,000+ articles** collected via Apify.com (2024-2025) from major news outlets:
+- **15,000+ articles** collected (2024-2025) from major news outlets:
   - CNN
   - NBC News  
   - The New York Times
